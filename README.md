@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I’m an engineering student interested in software development, with a focus on web applications, backend systems, and interactive experiences. I enjoy building practical projects that combine clean design with solid technical structure.
+I'm a Full-stack web developer and engineering student interested in software development, with a focus on web applications, backend systems, and interactive experiences. I enjoy building practical projects that combine clean design with solid technical structure. I also interested in game development and 3D modeling.
 
 
 ## 🚀 Current Focus
